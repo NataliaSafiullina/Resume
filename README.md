@@ -20,4 +20,4 @@ from dual
 
 ## Информация об образовании
 
-![Логотип NeuroStartUp](img/images.jfif) 
+![](img/images.jfif) 
